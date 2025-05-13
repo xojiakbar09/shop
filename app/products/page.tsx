@@ -22,7 +22,7 @@ export default function ProductsPage() {
       price: 999,
       discountPrice: 899,
       rating: 4.8,
-      image: "/https://www.google.com/imgres?q=iphone%2014%20pro%20max&imgurl=https%3A%2F%2Fcdsassets.apple.com%2Flive%2FSZLF0YNV%2Fimages%2Fsp%2F111846_sp875-sp876-iphone14-pro-promax.png&imgrefurl=https%3A%2F%2Fsupport.apple.com%2Fen-gb%2F111846&docid=2Ibe-bwAnj4lQM&tbnid=TNjyf-Tx6dqyjM&vet=12ahUKEwivwonBw5iNAxVL3QIHHY_hDSIQM3oECGYQAA..i&w=920&h=674&hcb=2&ved=2ahUKEwivwonBw5iNAxVL3QIHHY_hDSIQM3oECGYQAA",
+      image: "https://olcha.uz/image/original/products/2022-07-13/apple-iphone-14-pro-makh-64967-1.jpeg",
       category: "Phones",
     },
     {
@@ -31,7 +31,7 @@ export default function ProductsPage() {
       price: 1299,
       discountPrice: null,
       rating: 4.9,
-      image: "/https://www.google.com/aclk?sa=l&ai=DChsSEwiokpy7xZiNAxV2hnwGHbHcEPMYACICCAEQARoCd3M&co=1&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqTx2TPkB98zOywm0PLxeH-9jbeWXoJHXiOp2drZVxz6jQyF_ClWUwaAq40EALw_wcB&sig=AOD64_0pcOQKQkYFkl2KKClyy-H18BcwfA&ctype=5&q=&ved=2ahUKEwiuhpi7xZiNAxW8_7sIHc5MFHsQ9aACKAB6BAgEEA4&adurl=",
+      image: "https://olcha.uz/image/700x700/products/2022-08-26/macbook-air-m2-13-2022-256gb-ssd-starlight-102141-0.jpeg",
       category: "Laptops",
     },
     {
@@ -40,7 +40,7 @@ export default function ProductsPage() {
       price: 1499,
       discountPrice: 1299,
       rating: 4.7,
-      image: "/https://www.google.com/imgres?q=Samsung%20QLED%20TV&imgurl=https%3A%2F%2Fimages.samsung.com%2Fis%2Fimage%2Fsamsung%2Fp6pim%2Fuz_ru%2Fqe85q80dauxuz%2Fgallery%2Fuz-ru-qled-q80d-qe85q80dauxuz-thumb-542909953%3F%24UX_EXT2_PNG%24&imgrefurl=https%3A%2F%2Fwww.samsung.com%2Fuz_ru%2Ftvs%2Fqled-tv%2F&docid=Ii251VCQ7WMnCM&tbnid=1NXx6lzQ7r2WUM&vet=12ahUKEwjP2LXfxZiNAxVfgP0HHR2XM1AQM3oECGUQAA..i&w=560&h=560&hcb=2&ved=2ahUKEwjP2LXfxZiNAxVfgP0HHR2XM1AQM3oECGUQAA",
+      image: "https://images.samsung.com/is/image/samsung/p6pim/ae/qa98q80cauxzn/gallery/ae-qled-98q80c-qa98q80cauxzn-536847452?$684_547_PNG$",
       category: "Electronics",
     },
     {
@@ -49,7 +49,7 @@ export default function ProductsPage() {
       price: 899,
       discountPrice: 799,
       rating: 4.5,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://exohom.ae/cdn/shop/articles/Comfort_and_Support-654085.webp?v=1721042461",
       category: "Furniture",
     },
     {
@@ -58,8 +58,8 @@ export default function ProductsPage() {
       price: 199,
       discountPrice: 149,
       rating: 4.6,
-      image: "/placeholder.svg?height=300&width=300",
-      category: "Accessories",
+      image: "https://olcha.uz/image/600x600/products/2022-03-29/besprovodnye-naushniki-honor-choice-earbuds-x1-43580-0.jpeg",
+      category: "Electronics",
     },
     {
       id: 6,
@@ -67,7 +67,7 @@ export default function ProductsPage() {
       price: 299,
       discountPrice: 249,
       rating: 4.4,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://olcha.uz/image/700x700/products/2022-02-16/umnye-smart-chasy-smart-watch-x22-pro-44-mm-chernyy-37219-0.png",
       category: "Accessories",
     },
     {
@@ -76,7 +76,7 @@ export default function ProductsPage() {
       price: 399,
       discountPrice: 349,
       rating: 4.3,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://media.homecentre.com/i/homecentre/165555908-165555908-HC18052023_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-m-sqr-pdp-2x$",
       category: "Furniture",
     },
     {
@@ -85,7 +85,7 @@ export default function ProductsPage() {
       price: 129,
       discountPrice: 99,
       rating: 4.7,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:0,cw:2000,ch:1125,q:80,w:2000/XMDNCcbVWnrYj3zdapKrGb.jpg",
       category: "Accessories",
     },
     {
@@ -94,7 +94,7 @@ export default function ProductsPage() {
       price: 249,
       discountPrice: 199,
       rating: 4.2,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://www.ryman.co.uk/media/catalog/product/1/0/1026010138_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=550&width=550&canvas=550:550",
       category: "Furniture",
     },
     {
@@ -103,7 +103,7 @@ export default function ProductsPage() {
       price: 89,
       discountPrice: 69,
       rating: 4.5,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://www.dlkphoto.co.uk/images/fenton-ft15led-portable-pa-speaker-system-with-2-wireless-mics-p1259-6359_image.jpg",
       category: "Electronics",
     },
     {
@@ -112,7 +112,7 @@ export default function ProductsPage() {
       price: 899,
       discountPrice: 849,
       rating: 4.6,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-05-28/LrgKv7j4wE45e2RNyx7T8vGZnlNXkyRzgWIvjx7rdHMfzcbSuYuIoP1SJycT.JPG",
       category: "Phones",
     },
     {
@@ -121,7 +121,7 @@ export default function ProductsPage() {
       price: 1199,
       discountPrice: null,
       rating: 4.8,
-      image: "/placeholder.svg?height=300&width=300",
+      image: "https://olcha.uz/image/700x700/products/2022-08-01/noutbuk-dell-xps-13-9310-i7-1165g7-16512gb-ssd-134-87164-0.jpeg",
       category: "Laptops",
     },
   ]

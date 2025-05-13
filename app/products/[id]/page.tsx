@@ -37,7 +37,7 @@ export default function ProductPage({ params }: { params: { id: string } }) {
       "/placeholder.svg?height=600&width=600",
       "/placeholder.svg?height=600&width=600",
       "/placeholder.svg?height=600&width=600",
-      "/placeholder.svg?height=600&width=600",
+      "",
     ],
     features: [
       "Active Noise Cancellation",
